@@ -1,0 +1,13 @@
+/.idea
+.project
+.vagrant
+build/api
+build/code-browser
+build/coverage
+build/logs
+build/pdepend
+build/phar
+build/phpdoc
+build/*.phar
+build/*.tgz
+phpunit.xml
